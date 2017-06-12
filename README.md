@@ -1,0 +1,2 @@
+# Android_DiaryApplication
+# DiaryApplicationBasic
